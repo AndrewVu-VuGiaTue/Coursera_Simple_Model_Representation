@@ -5,3 +5,4 @@ This is the simple Linear Regression Model on Coursera that I learnt, and I want
 
 -The original model is from "https://www.coursera.org/specializations/machine-learning-introduction", course 1 - week 1.
 
+-However, I finally made up my mind to add a version of model, which is called 'Model_Sample_1_cleaned_with_cost_function_gradient_descent'. This model is linear regression, but it now use Gradient Descent and Cost Function (they are part of Machine Learning), which help to improve accuracy remarkably.
